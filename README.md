@@ -27,6 +27,12 @@ TLC Trip Record Data Yellow taxi trip records include fields capturing pick-up a
 Below is the data model theorized as part of the cleaning and getting-ready process. The dimension tables mentioned in the brpught versitality to the pipeline.
 ![Uber_Data_Model](https://github.com/Mayank07Joshi/Taxi_data_analytics/assets/60167970/832352c6-2020-4538-abd5-3f91661c3a97)
 
+## Dashboard Overview
+Below is a page from the report (dashboard) created using this dataset.
+![Dashboard overview](https://github.com/Mayank07Joshi/Taxi_data_analytics/assets/60167970/ae6aa5b0-3258-4968-8915-db4d11b10fd1)
+
+This dashboard was created using power BI
+
 ## References and Citations
 - Video Link - https://youtu.be/WpQECq5Hx9g
 - https://github.com/mage-ai/mage-ai
